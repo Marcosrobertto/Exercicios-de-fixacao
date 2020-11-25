@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\bin\Debug\netcoreapp3.1\Atividade 7.exe
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\bin\Debug\netcoreapp3.1\Atividade 7.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\bin\Debug\netcoreapp3.1\Atividade 7.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\bin\Debug\netcoreapp3.1\Atividade 7.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\bin\Debug\netcoreapp3.1\Atividade 7.dll
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\bin\Debug\netcoreapp3.1\Atividade 7.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.dll
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\Exercícios de fixação\Atividade 7\obj\Debug\netcoreapp3.1\Atividade 7.genruntimeconfig.cache
